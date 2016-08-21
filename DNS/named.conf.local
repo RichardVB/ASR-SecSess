@@ -1,0 +1,4 @@
+zone "vanbrande.ephec-ti.be" IN {
+        type master;
+        file "/etc/bind/db.vanbrande.ephec-ti.be";
+};
