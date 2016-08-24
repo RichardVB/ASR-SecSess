@@ -1,0 +1,1 @@
+Ces fichiers de configuration se trouvent dans le dossier /etc/bind

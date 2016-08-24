@@ -1,0 +1,1 @@
+Ces fichiers de configuration sont situés dans le dossier /etc/asterisk
